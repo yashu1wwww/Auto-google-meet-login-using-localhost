@@ -44,7 +44,7 @@ and hit enter button
 
 👉Note:-
 
-👉if your selenium version is in latest version then the code never run
+👉If you have the latest version of Selenium, the code may not run
 
 👉open cmd and enter pip uninstall selenium
 
