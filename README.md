@@ -14,17 +14,23 @@ https://youtu.be/c9MAJpax5R0
 
 C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
-in my case chrome location
+"In my case, the location of Chrome is:
+
+C:\Users\Hp\AppData\Local\Google\Chrome\Application
+
+To access it, use the following command:
 
 cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
-chrome.exe --remote-debugging-port=9222 --user-data-dir=""(in "enter your localhost path here")
+To enable remote debugging, use the following command:
 
-in my case
+chrome.exe --remote-debugging-port=9222 --user-data-dir="enter your localhost path here"
+
+In my case, the command looks like this:
 
 chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
 
-then open cmd in that folder paste below 3 lines at a time and hit enter button(in below codes are after watching above video my chrome path location & localohost path)
+To execute these commands, open cmd in that folder and paste the following three lines at a time, and hit the enter button. After that, execute the next three lines. The commands are adjusted to my Chrome path location and localhost path:
 
 cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
