@@ -1,8 +1,5 @@
 # Auto-google-meet-login-using-localhost
-Auto google meet loginj using selenium with python on localhost
-
-👉Auto Google Meet Login 
-https://youtu.be/08rJk7XZwco
+Auto google meet login using selenium with python on localhost
 
 https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
 
